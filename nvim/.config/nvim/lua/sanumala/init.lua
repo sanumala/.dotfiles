@@ -1,0 +1,8 @@
+require('sanumala.gitsigns')
+require('sanumala.lualine')
+require('sanumala.lsp')
+require('sanumala.telescope')
+require('sanumala.treesitter')
+require('sanumala.tokyonight')
+require('sanumala.nvim-tree')
+require('sanumala.bufferline')
